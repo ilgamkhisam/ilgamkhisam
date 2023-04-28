@@ -21,7 +21,7 @@
   <a href="ilgamkhisam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="@ilgamkhisam">
+  <a href="https://t.me/ilgamkhisam">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
