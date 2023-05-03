@@ -1,4 +1,4 @@
-<h1>Hi there, i'am Ilgam 👋</h1>
+<h1>Hi there, I'am Ilgam 👋</h1>
 
 
 <h3>About me:</h3> 
