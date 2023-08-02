@@ -5,13 +5,12 @@
     <p>I'm backend dev</p> 
    
   - 🔭 I’m currently working on my life 
-  - 🌱 I’m currently learning Python, SQL, Linux, 
+  - 🌱 I’m currently learning Python, SQL, Linux, PSQL
   - 📖 In the future I plan to learn GO-lang, 
   - 👯 I’m looking to collaborate on my dream-team
   - 🤔 I’m looking for help with:  "Internet", 
-  - ⚡ Fun fact:  I love humor and  i'm a standup comic for street cats, 
   - 🎓 My education: SC50, Internet,Technical Documentation, Manuals, Stepik, Coursera, Live, Codewars, Leetcode, SQL-academy, YouTube, Teacher from India, Forums, Wikipedia, Books  etc.. 
-  - MY English is 50/50 😁
+  
   <hr>
   <h3>Connect with me:</h3>          
 <div id="badges">
