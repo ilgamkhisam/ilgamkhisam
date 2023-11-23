@@ -4,7 +4,6 @@
 <h3>About me:</h3> 
     <p>I'm backend dev</p> 
    
-  - 🔭 I’m currently working on my life 
   - 🌱 I’m currently learning Python, SQL, Linux, PSQL
   - 📖 In the future I plan to learn GO-lang, 
   - 👯 I’m looking to collaborate on my dream-team
